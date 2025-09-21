@@ -22,7 +22,7 @@ void main()
         printf("not a lucky number");
     }
 }
-    else
+    else"
     {
         printf("Invalid numbert");
     
