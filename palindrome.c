@@ -6,7 +6,8 @@ int main(){
 	temp=n;
 	while (n>0)
 		{
-			sum=sum*10+n%10;
+			r=n%10;
+			sum=sum*10+r;
 			n/=10;
 		}
 	if(temp==sum){
