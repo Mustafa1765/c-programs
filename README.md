@@ -31,4 +31,32 @@ Please follow these steps:
 - Avoid duplicate PRs.  
 - No spam / irrelevant PRs (these will be marked **invalid**).
 
+- # 🎉 Hacktoberfest 2025 – Contribute Here!
+
+Welcome to this open-source project!  
+This repository is part of **Hacktoberfest 2025** 🌍.
+
+## 🚀 How to Contribute
+1. Fork this repository 🍴  
+2. Clone it to your local system 💻  
+3. Create a new branch 🌱  
+4. Make your changes ✨  
+5. Commit & push 🔼  
+6. Create a Pull Request (PR) ✅
+
+## 🏆 Rules for Hacktoberfest
+- PRs must follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.  
+- Meaningful contributions only (spammy PRs will be **rejected** 🚫).  
+- Add yourself to the `CONTRIBUTORS.md` file after your first PR.  
+
+## 💡 What You Can Do
+- Fix bugs 🐞  
+- Add new features ⚡  
+- Improve documentation 📖  
+- Suggest improvements 🚀  
+
+## 📝 License
+This project is licensed under the [MIT License](LICENSE).
+
+
 Happy contributing! 🎉
